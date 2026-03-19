@@ -1,0 +1,3 @@
+2026-03-19 20:24:33.747299-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM MEDICOES SENSORES [*]SENSORES"; SQL statement:
+SELECT * FROM MEDICOES SENSORES SENSORES [42000-240]
